@@ -1,0 +1,16 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+Flask
+click
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+dill
+-e .
